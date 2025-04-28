@@ -1,3 +1,3 @@
 #README.md
 
-its for my project in alx to 
+its for my project in alx 
