@@ -23,7 +23,9 @@ its for my project in alx
 - **Quality Assurance (QA) Tester**: Tests the application for bugs, usability issues, and ensures the software meets quality standards before release.
 
 - **Security Engineer**: Ensures the application is secure against threats by implementing security best practices and performing vulnerability assessments.
- ##echnology Stack
+
+- 
+  ##echnology Stack
 
 Django: A high-level Python web framework used for building the backend of the application, including RESTful APIs and business logic.
 
