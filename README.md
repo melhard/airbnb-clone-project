@@ -23,4 +23,15 @@ its for my project in alx
 - **Quality Assurance (QA) Tester**: Tests the application for bugs, usability issues, and ensures the software meets quality standards before release.
 
 - **Security Engineer**: Ensures the application is secure against threats by implementing security best practices and performing vulnerability assessments.
+ ##echnology Stack
+
+Django: A high-level Python web framework used for building the backend of the application, including RESTful APIs and business logic.
+
+PostgreSQL: An open-source relational database system used to store user data, listings, reservations, and other core entities.
+
+React: A JavaScript library for building dynamic user interfaces on the frontend.
+
+Tailwind CSS: A utility-first CSS framework used for designing responsive and modern user interfaces.
+
+Docker: A platform for containerizing the application to ensure consistency across development, testing, and production environments.
 
