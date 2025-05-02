@@ -37,3 +37,29 @@ Tailwind CSS: A utility-first CSS framework used for designing responsive and mo
 
 Docker: A platform for containerizing the application to ensure consistency across development, testing, and production environments.
 
+ ## Database Design
+ name: El hard marouan 
+email: elhardmarouan15@gmail.com
+
+## Feature Breakdown
+
+## API Security
+ Key Security Measures
+
+1. **Authentication**: Ensures only verified users can access the system (e.g., via JWT or OAuth).
+    *Why it matters*: Protects user accounts and prevents unauthorized access to personal data.
+
+2. **Authorization**: Controls what actions users can perform based on roles (e.g., guest vs. host).
+    *Why it matters*: Prevents users from accessing or modifying data they shouldn't.
+
+3. **Rate Limiting**: Limits the number of requests from a user or IP.
+    *Why it matters*: Protects against abuse, brute-force attacks, and ensures fair usage.
+
+4. **Input Validation & Sanitization**: Cleans and checks all user inputs.
+    *Why it matters*: Prevents common attacks like SQL injection and XSS.
+
+5. **Secure Payments**: Uses encrypted protocols and third-party services (e.g., Stripe).
+    *Why it matters*: Ensures financial data is handled safely and reduces liability.
+
+## CI/CD Pipeline
+**CI/CD pipelines** automate the process of building, testing, and deploying code changes. They're important because they improve speed, consistency, and reduce errors in software delivery. For this project, CI/CD ensures each update is properly tested and deployed. Tools like **GitHub Actions**, **Docker**, and **Heroku** can be used to set up the pipeline. This helps maintain high code quality and reliable deployments.
