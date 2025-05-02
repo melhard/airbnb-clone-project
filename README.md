@@ -25,7 +25,7 @@ its for my project in alx
 - **Security Engineer**: Ensures the application is secure against threats by implementing security best practices and performing vulnerability assessments.
 
 - 
-  ##Echnology Stack
+ ## Technology Stack
 
 Django: A high-level Python web framework used for building the backend of the application, including RESTful APIs and business logic.
 
